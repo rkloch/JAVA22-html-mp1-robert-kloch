@@ -1,0 +1,54 @@
+/* * {
+    border: 3px black solid;
+} */
+body{
+    background-color: antiquewhite;
+}
+.first-element{
+    margin-top: 100px;
+    text-align: center;
+}
+h1{
+    padding: 0 25%;
+    text-align: center;
+}
+.internal-pages{
+    text-align: center;
+    margin: 0 20px 0 20px;
+}
+h1, h3{
+    color: darkseagreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    margin: 0 0 0 25%;
+}
+img{
+    width: 300px;
+    display:block;
+    margin:0 auto;
+}
+q{
+    font-style: italic;
+    display: block;
+    text-align: center;
+}
+.p-under-quote{
+    margin-right: auto;
+    text-align: center;
+}
+.inspiration-container{
+    margin-right: 10px;
+}
+.inspiration{
+    margin: 0 0 0 0;
+    width: 50%;
+}
+form>*{
+    margin-top: 10px;
+}
+a:hover{
+    color:aqua;
+}
